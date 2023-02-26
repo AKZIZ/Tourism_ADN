@@ -1,0 +1,12 @@
+pandas==1.5.2
+streamlit==1.15.1
+folium==0.13.0
+streamlit_folium == 0.7.0
+streamlit_option_menu ==0.3.2
+matplotlib == 3.6.2
+plotly == 5.11.0
+geopandas == 0.12.2
+numpy == 1.23.5
+spacy == 3.5.0
+nltk == 3.8.1
+scikit-learn == 1.2.1

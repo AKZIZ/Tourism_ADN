@@ -1,0 +1,45 @@
+div.css-6qob1r.e1fqkh3o3 {
+    background-color: #67d4cc;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: overlay;
+}
+
+strong {
+    color: white;
+    font-weight: 1000;
+}
+img {justify-content: center;
+    object-position: center;
+    background-position: center;
+    max-width: 100%;}
+
+div#map_div.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom{
+    height: 450px;
+    width: 500px;
+    position: center;
+    outline: none;
+}
+
+div.block-container.css-18e3th9.egzxvld2 {
+    padding: 1rem 1rem 1.5rem;
+}
+
+div.css-1vq4p4l.e1fqkh3o4 {
+    padding: 1rem 1rem 1.5rem;
+}
+
+div.container-xxl.d-flex.flex-column.flex-shrink-0.p-h.nav-justified{
+    background-color: #67d4cc !important;
+    border-radius: .5rem;
+}
+
+
+h2 {
+    text-align: justify;
+    color: blanchedalmond;
+}
+
+
+
