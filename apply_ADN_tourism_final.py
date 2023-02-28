@@ -57,7 +57,7 @@ with col3:
 def get_my_data():
 # chargement des donnees
 
-    with zipfile.ZipFile(r"C:\Users\rachi\Desktop\Projet4\ADN_tourisme\ADN_tourism_VF\df_400POI_clean.zip","r") as z:
+    with zipfile.ZipFile(r"C:\Users\rachi\Desktop\Projet4\ADN_tourisme\Tourism_ADN\df_400POI_clean.zip","r") as z:
    # open the csv file in the dataset
         with z.open("df_400POI_clean.csv") as f:
       # read the dataset
@@ -225,7 +225,7 @@ elif selected == "Dashboard":
     # chargement des donnees
         # chargement des donnees
 
-        with zipfile.ZipFile(r"C:\Users\rachi\Desktop\Projet4\ADN_tourisme\df_400POI_2.zip","r") as z:
+        with zipfile.ZipFile(r"C:\Users\rachi\Desktop\Projet4\ADN_tourisme\Tourism_ADN\df_400POI_2.zip","r") as z:
    # open the csv file in the dataset
             with z.open("df_400POI_2.csv") as f:
       # read the dataset
